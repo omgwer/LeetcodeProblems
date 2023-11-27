@@ -1,3 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
-Console.WriteLine("Hello, World!");
+using Problems;
+
+var t = new TwoSum().Execute(new []{-1,-2, -3,-4,-5}, -8);
+
+foreach (var i in t)
+{
+    Console.WriteLine(i);
+}

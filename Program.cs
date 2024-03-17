@@ -1,4 +1,4 @@
-﻿using Problems.TwoSum;
+﻿using LeetcodeProblems.TwoSum;
 
 var testParams = new []{-3, 4, 3, 90};
 const int target = 0;

@@ -11,9 +11,5 @@
       <None Remove=".gitattributes" />
       <None Remove=".gitignore" />
     </ItemGroup>
-       
-    <ItemGroup>
-      <Folder Include="Easy\" />
-    </ItemGroup>
 
 </Project>

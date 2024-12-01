@@ -1,6 +1,5 @@
-﻿
-using LeetcodeProblems.Easy.PalindromeNumber;
+﻿using LeetcodeProblems.Easy.RomanToInteger;
 
-bool isPalindrome = new PalindromeNumber().IsPalindrome(1441);
+int result = new RomanToInteger().RomanToInt("XLIX");
 
-Console.WriteLine(isPalindrome);
+Console.WriteLine(result);

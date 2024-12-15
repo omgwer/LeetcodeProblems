@@ -1,5 +1,6 @@
-﻿using LeetcodeProblems.Easy.RomanToInteger;
+﻿using LeetcodeProblems.Easy.LongestCommonPrefix;
+using LeetcodeProblems.Easy.RomanToInteger;
 
-int result = new RomanToInteger().RomanToInt("XLIX");
+string result = new LongestCommonPrefix().Do(["flower","flower","flower","flower"]);
 
 Console.WriteLine(result);
